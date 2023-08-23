@@ -1,4 +1,4 @@
-# Faça um algoritmo que leia o salário de um funcionário e mostra seu novo salário, com 15 % de aumento.
+# Faça um algoritmo que leia o salário de um funcionário e mostra seu novo salário, com 20 % de aumento.
 
 print('=' * 90)
 salário = float(input('Informe o salário do funcionário: '))
